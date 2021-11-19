@@ -2,13 +2,13 @@
 
 ### Java ile metin tabanlı bir macera oyunu.
 ### Karakterler
-![Karakterler](.\img\karakter.png)
+![Karakterler](img\karakter.png)
 ### Canavarlar
-![Canavarlar](.\img\canavar.png)
+![Canavarlar](img\canavar.png)
 ### Silahlar
-![Silahlar](.\img\silah.png)
+![Silahlar](img\silah.png)
 ### Zırhlar
-![Zırhlar](.\img\zırh.png)
+![Zırhlar](img\zırh.png)
 ### Mekanlar
 > Güvenli Ev
 
@@ -48,7 +48,7 @@ Zırh : Hafif,Orta,Ağır
 
 ### Sınıf Diagramı
 
-![Diagram](.\img\classDiagram.jpg)
+![Diagram](img\classDiagram.jpg)
 
 ### Eklenenler
 
